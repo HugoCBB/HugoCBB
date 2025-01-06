@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python
+  🦄 Linguagens: Python, JavaScript
 </p>
 
 <p align="left">
-  💼 Ferramentas: Django
+  💼 Ferramentas: Django, React Js
 </p>
 
 <p align="left">
