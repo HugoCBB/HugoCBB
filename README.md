@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Me chamo Hugo, e desenvolvo projetos com <strong>python</strong>.<br>
+  Me chamo Hugo, e desenvolvo projetos com <strong>Python, JavaScript e GoLang</strong>.<br>
   Atualmente estou trabalhando, porem busco constantemente conhecimento para o meu crescimento profissional.
 </p>
 
