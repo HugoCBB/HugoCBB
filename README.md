@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Django, React Js
+  💼 Ferramentas: Django, React Js, React Native, Gin,MySQL
 </p>
 
 <p align="left">
