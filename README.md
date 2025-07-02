@@ -2,8 +2,8 @@
 ## Olá, meu nome é Hugo!
 
 <p align="left"> 
-  sou desenvolvedor com experiência em Python, TypeScript e GoLang.
-  🚀 Tenho me dedicado a desenvolver projetos pessoais e a aprofundar meus conhecimentos em tecnologias modernas, sempre buscando aprimorar minhas habilidades técnicas.
+  sou desenvolvedor com experiência em Python, TypeScript e GoLang.<br>
+  🚀 Tenho me dedicado a desenvolver projetos pessoais e a aprofundar meus conhecimentos em tecnologias modernas, sempre buscando aprimorar minhas habilidades técnicas.<br>
   📚 Sou movido por desafios, aprendizado contínuo e pela paixão por construir soluções eficientes e bem estruturadas.
 </p>
 
