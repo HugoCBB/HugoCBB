@@ -14,14 +14,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=hugocbb&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=HugoCBB&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocbb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoCBB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -29,7 +29,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=hugocbb&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=HugoCBB&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
@@ -42,12 +42,12 @@
 
 <p align="center">
   <a
-    href="https://github.com/hugocbb/github-profile-trophy"
+    href="https://github.com/HugoCBB/github-profile-trophy"
     title="repositório de troféus"
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=hugocbb&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=HugoCBB&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
