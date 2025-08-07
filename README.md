@@ -3,7 +3,7 @@
 
 <p align="left"> 
      Sou desenvolvedor com experiência em Java, Python, TypeScript e GoLang.<br>
-     Tenho me dedicado a desenvolver projetos pessoais e a aprofundar meus conhecimentos em tecnologias modernas, sempre buscando aprimorar minhas habilidades técnicas.<br>
+     Tenho me dedicado a desenvolver projetos pessoais e a aprofundar meus conhecimentos em tecnologias modernas, sempre buscando aprimorar minhas habilidades técnicas.
      Sou movido por desafios, aprendizado contínuo e pela paixão por construir soluções eficientes e bem estruturadas.
 </p>
 
