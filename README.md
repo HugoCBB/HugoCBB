@@ -1,11 +1,8 @@
 
-## Olá, meu nome é Hugo!
+# 👋 Olá, eu sou Hugo
+Sou Desenvolvedor Full Stack, com foco em Back-end, com experiência na criação de APIs REST e aplicações web utilizando Golang, TypeScript e Python, além de frameworks como Gin, FastAPI, Django, React e Next.js.
+Atuo em um ambiente de startup no desenvolvimento de uma plataforma para artistas freelancers, trabalhando com autenticação JWT, Docker, PostgreSQL e integração com serviços em nuvem como AWS, sempre aplicando Clean Architecture e boas práticas de desenvolvimento.
 
-<p align="left"> 
-     Sou desenvolvedor com experiência em Java, Python, TypeScript e GoLang.<br>
-     Tenho me dedicado a desenvolver projetos pessoais e a aprofundar meus conhecimentos em tecnologias modernas, sempre buscando aprimorar minhas habilidades técnicas.
-     Sou movido por desafios, aprendizado contínuo e pela paixão por construir soluções eficientes e bem estruturadas.
-</p>
 
 ### ⚙️ GitHub Analytics
 
