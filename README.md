@@ -11,5 +11,5 @@ Sou Desenvolvedor Full Stack com foco em Back-end, com experiência no desenvolv
 ## 🚀 Minhas Skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,java,py,ts,spring,fastapi,express,nextjs,postgres,redis,aws,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,java,py,ts,spring,fastapi,nestjs,express,nextjs,postgres,redis,aws,docker&theme=dark" />
 </a>
