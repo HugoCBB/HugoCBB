@@ -1,15 +1,16 @@
-## 👋 Olá, meu nome é Hugo!
+# Hugo Brandão
 
-Sou desenvolvedor, com experiência no desenvolvimento de APIs REST escaláveis, aplicações web e agente de ia generativa, utilizando Golang, TypeScript, Python e Java.
+Desenvolvedor full stack com foco em back-end, APIs e IA aplicada.
+Gosto de transformar ideias em produtos reais — do zero até funcionar.
 
-🔭 Atualmente participo do desenvolvimento de uma plataforma web voltada para artistas freelancers, atuando na criação e manutenção de interfaces, desenvolvimento de APIs REST, implementação de autenticação e autorização de usuários (JWT) e integração com serviços externos em nuvem, seguindo boas práticas de arquitetura e foco na experiência do usuário.
-
-💬 Fique à vontade para entrar em contato comigo para trocar ideias sobre desenvolvimento back-end, APIs, Golang, Clean Architecture ou para falar sobre oportunidades e projetos. Você pode me chamar pelo LinkedIn ou e-mail.
+Atualmente construindo coisas com Python, FastAPI, Go, LangChain e TypeScript.
+Estudando Engenharia de Software na UCSAL.
 
 ---
 
-## 🚀 Minhas Skills
+Tô sempre aberto pra trocar ideia sobre back-end, agentes de IA, programação competitiva ou oportunidades.
+Me chama no [LinkedIn](https://linkedin.com/in/hugocbb) ou manda um e-mail.
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,java,py,ts,spring,fastapi,nestjs,express,nextjs,postgres,redis,aws,docker&theme=dark" />
-</a>
+---
+
+`Python` `TypeScript` `Golang` `Gin` `LangChain` `FastAPI` `Next` `Redis` `PostgreSQL`  
