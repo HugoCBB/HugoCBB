@@ -13,4 +13,4 @@ Me chama no [LinkedIn](https://linkedin.com/in/hugocbb) ou manda um e-mail.
 
 ---
 
-`Python` `TypeScript` `Golang` `Gin` `LangChain` `FastAPI` `Next` `Redis` `PostgreSQL`  
+`Python` `TypeScript` `Golang` `Gin` `LangChain` `Django` `FastAPI` `Next` `Redis` `PostgreSQL`  
